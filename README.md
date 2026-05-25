@@ -1,7 +1,7 @@
 # Olá, eu sou o Nicolas Menezes 👋
 
 🎓 Estudante de TI focado em **Engenharia de Software**  
-💻 Em evolução contínua em **Python**, **JavaScript** e lógica de programação  
+💻 Em evolução contínua em **Node.js**, **JavaScript** e lógica de programação  
 🚀 Construindo projetos para desenvolver prática e portfólio
 
 ## 👨‍💻 Sobre mim
