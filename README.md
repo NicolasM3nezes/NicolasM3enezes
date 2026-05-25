@@ -5,14 +5,13 @@
 🚀 Construindo projetos para desenvolver prática e portfólio
 
 ## 👨‍💻 Sobre mim
-- Técnico em Informática (em formação)
+- Técnico em Informática
 - Base em suporte técnico, redes e infraestrutura
 - Migrando meu foco para desenvolvimento de software
 - Interesse em estágio/júnior na área de Desenvolvimento / Engenharia de Software
 
 ## 🛠️ Tecnologias em estudo
-- Python
-- C#
+- Node.js
 - JavaScript
 - HTML
 - CSS
@@ -20,7 +19,7 @@
 - Lógica de Programação
 
 ## 📌 Objetivo atual
-Desenvolver projetos práticos e montar um portfólio profissional para oportunidades de estágio em Engenharia de Software.
+Desenvolver projetos práticos e montar um portfólio profissional para oportunidades de estágio em Desenvolvimento.
 
 ## 📂 Projetos em destaque
 > Em breve: projetos organizados e documentados com foco em desenvolvimento de software.
