@@ -1,29 +1,41 @@
 # Olá, eu sou o Nicolas Menezes 👋
 
-🎓 Estudante de TI focado em **Engenharia de Software**  
-💻 Em evolução contínua em **Node.js**, **JavaScript** e lógica de programação  
-🚀 Construindo projetos para desenvolver prática e portfólio
+🎓 Estudante de TI focado em **Cibersegurança**  
+🛡️ Em evolução contínua em **SOC**, **Blue Team**, **Redes**, **Linux** e **Segurança da Informação**  
+🚀 Construindo uma base prática com laboratórios, anotações e projetos voltados para segurança
 
 ## 👨‍💻 Sobre mim
 - Técnico em Informática
 - Base em suporte técnico, redes e infraestrutura
-- Migrando meu foco para desenvolvimento de software
-- Interesse em estágio/júnior na área de Desenvolvimento / Engenharia de Software
+- Conhecimentos em desenvolvimento web com JavaScript, Node.js, HTML e CSS
+- Atualmente direcionando meus estudos para Cibersegurança, com foco em SOC e Blue Team
+- Interesse em estágio/júnior na área de Segurança da Informação, SOC, Infraestrutura ou Suporte com foco em segurança
 
-## 🛠️ Tecnologias em estudo
-- Node.js
-- JavaScript
-- HTML
-- CSS
+## 🛠️ Tecnologias e áreas em estudo
+- Segurança da Informação
+- SOC / Blue Team
+- Redes de Computadores
+- Linux
+- Análise de Logs
+- Fundamentos de Cibersegurança
+- TryHackMe
 - Git e GitHub
-- Lógica de Programação
+- JavaScript e Node.js
 
 ## 📌 Objetivo atual
-Desenvolver projetos práticos e montar um portfólio profissional para oportunidades de estágio em Desenvolvimento.
+Desenvolver uma base sólida em Cibersegurança, documentando minha evolução por meio de laboratórios práticos, estudos semanais e projetos voltados para SOC, Blue Team, redes e segurança da informação.
 
 ## 📂 Projetos em destaque
-> Em breve: projetos organizados e documentados com foco em desenvolvimento de software.
+> Em breve: repositórios organizados com anotações, laboratórios e estudos práticos de Cibersegurança.
+
+Sugestões de projetos que pretendo documentar:
+- Fundamentos de Redes
+- Comandos Linux para Segurança
+- Estudos práticos no TryHackMe
+- Análise básica de logs
+- Conceitos de SOC e Blue Team
+- Boas práticas de Segurança da Informação
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/nicolas-gustavo/
-- Email: nicolas.seabra09@gmail.com 
+- Email: nicolasmenezes09@outlook.com
