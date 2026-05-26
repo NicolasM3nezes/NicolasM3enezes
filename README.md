@@ -7,7 +7,7 @@
 ## 👨‍💻 Sobre mim
 - Técnico em Informática
 - Base em suporte técnico, redes e infraestrutura
-- Conhecimentos em desenvolvimento web com JavaScript, Node.js, HTML e CSS
+- Conhecimentos em desenvolvimento web com JavaScript, PHP, HTML e CSS
 - Atualmente direcionando meus estudos para Cibersegurança, com foco em SOC e Blue Team
 - Interesse em estágio/júnior na área de Segurança da Informação, SOC, Infraestrutura ou Suporte com foco em segurança
 
