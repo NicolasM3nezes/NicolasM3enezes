@@ -1,41 +1,66 @@
-# Olá, eu sou o Nicolas Menezes 👋
+# Olá visitante! 👋 Eu sou o Nicolas Menezes
 
 🎓 Estudante de TI focado em **Cibersegurança**  
-🛡️ Em evolução contínua em **SOC**, **Blue Team**, **Redes**, **Linux** e **Segurança da Informação**  
-🚀 Construindo uma base prática com laboratórios, anotações e projetos voltados para segurança
+🛡️ Em evolução contínua em **SOC, Blue Team, Redes, Linux e Segurança da Informação**  
+🚀 Construindo minha base prática com laboratórios, anotações e projetos voltados para segurança
+
+---
 
 ## 👨‍💻 Sobre mim
-- Técnico em Informática
-- Base em suporte técnico, redes e infraestrutura
-- Conhecimentos em desenvolvimento web com JavaScript, PHP, HTML e CSS
-- Atualmente direcionando meus estudos para Cibersegurança, com foco em SOC e Blue Team
-- Interesse em estágio/júnior na área de Segurança da Informação, SOC, Infraestrutura ou Suporte com foco em segurança
+
+Sou Técnico em Informática e atualmente curso Engenharia de Software.  
+Tenho base em suporte técnico, redes, infraestrutura e desenvolvimento web, e estou direcionando minha carreira para a área de **Cibersegurança**, com foco em **SOC / Blue Team**.
+
+Atualmente estudo temas como:
+
+- Fundamentos de redes
+- Linux para segurança
+- Análise de logs
+- Segurança da Informação
+- Conceitos de SOC
+- Blue Team
+- Laboratórios práticos no TryHackMe
+
+Meu objetivo é conquistar minha primeira oportunidade na área de **Segurança da Informação**, atuando como Estagiário, Analista SOC Júnior, Assistente de Segurança ou Suporte Técnico com foco em segurança.
+
+---
 
 ## 🛠️ Tecnologias e áreas em estudo
-- Segurança da Informação
-- SOC / Blue Team
-- Redes de Computadores
-- Linux
-- Análise de Logs
-- Fundamentos de Cibersegurança
-- TryHackMe
-- Git e GitHub
-- JavaScript e Node.js
 
-## 📌 Objetivo atual
-Desenvolver uma base sólida em Cibersegurança, documentando minha evolução por meio de laboratórios práticos, estudos semanais e projetos voltados para SOC, Blue Team, redes e segurança da informação.
+<div align="left">
 
-## 📂 Projetos em destaque
-> Em breve: repositórios organizados com anotações, laboratórios e estudos práticos de Cibersegurança.
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
+![Redes](https://img.shields.io/badge/Redes-00599C?style=for-the-badge&logo=cisco&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Blue Team](https://img.shields.io/badge/Blue%20Team-003B73?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-Sugestões de projetos que pretendo documentar:
-- Fundamentos de Redes
-- Comandos Linux para Segurança
-- Estudos práticos no TryHackMe
-- Análise básica de logs
-- Conceitos de SOC e Blue Team
-- Boas práticas de Segurança da Informação
+</div>
 
-## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/nicolas-gustavo/
-- Email: nicolasmenezes09@outlook.com
+---
+
+## 📚 Minha trilha atual de estudos
+
+```txt
+Cibersegurança
+├── Fundamentos
+│   ├── Redes
+│   ├── Linux
+│   ├── Windows
+│   └── Segurança da Informação
+│
+├── Blue Team
+│   ├── Análise de Logs
+│   ├── Conceitos de SOC
+│   ├── Monitoramento
+│   └── Resposta a Incidentes
+│
+└── Prática
+    ├── TryHackMe
+    ├── Anotações técnicas
+    ├── Laboratórios
+    └── Projetos no GitHub
