@@ -48,7 +48,7 @@ Meu objetivo é conquistar minha primeira oportunidade na área de **Segurança 
 
 Eu tenho LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas%20Menezes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-gustavo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-gustavo/)
 
 </div>
 
