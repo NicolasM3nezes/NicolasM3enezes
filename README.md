@@ -42,6 +42,16 @@ Meu objetivo é conquistar minha primeira oportunidade na área de **Segurança 
 </div>
 
 ---
+## 📫 Contato
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-gustavo/)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.seabra09@gmail.com)
+
+</div>
+
+---
 
 ## 📚 Minha trilha atual de estudos
 
